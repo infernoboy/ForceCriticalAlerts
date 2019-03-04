@@ -3,7 +3,7 @@ Name: Force Critical Alerts
 Depends: mobilesubstrate, firmware (>= 12)
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Lets you mark certain app's notifications as "critical". This will bypass both the silent switch and Do Not Disturb.
+Description: Lets you mark certain app's notifications as "critical". This will bypass both silent mode and Do Not Disturb.
 Maintainer: Travis Roman
 Author: Travis Roman
 Section: Tweaks

@@ -11,3 +11,6 @@ Looking for a more knowledgeable developer to improve this tweak:
 - Allow creation of multiple "filters" on a per-app basis
 - Each filter allows checking if the notification title, subtitle, or message matches a given string
 - Only mark the notification as critical if the filter evaluates to true
+
+
+![Screenshot of critical alert](https://i.imgur.com/q9TKi4v.jpg)
